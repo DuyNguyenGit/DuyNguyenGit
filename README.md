@@ -1,7 +1,7 @@
 # Hi there, I'm Van Duy! 👋
 ## 🚀 About Me
 
-🎓 I am Van Duy, a **Android Developer**.I am also Pursuing my Master in **Computer Science** in United State and will graduate in dec-2026.
+🎓 I am Van Duy, an **Android Developer**. I am also pursuing my Master in **Computer Science** in United State and will graduate in dec-2026.
 
 👨‍💻 I am really enthusiastic about learning new technology. In 2023, I learned **Jetpack Compose**, **Kotlin Multi Platform**.
 
