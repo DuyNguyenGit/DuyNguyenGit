@@ -57,7 +57,7 @@
 ![SonarQube](https://img.shields.io/badge/sonarqube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=orange)
 
 ## 📊 GitHub Stats:
-![Van's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuyNguyenGit&show_icons=true&hide=issues&count_private=true)
+![Van's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuyNguyenGit&show_icons=true&hide=issues&count_private=true&include_all_commits=true)
 
 ## 🔭 Featured Projects:
 - [Machine Learning Project](https://github.com/DuyNguyenGit/ML-Project): Objects Detection from images.
