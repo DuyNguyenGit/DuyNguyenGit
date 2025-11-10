@@ -1,16 +1,12 @@
-# Hi there, I'm Van Duy! 👋
+# Hi there, I'm Adrian! 👋
 ## 🚀 About Me
 
-🎓 I am Van Duy, an **Senior Android Developer** with 10 years of experiences. I am also pursuing my Master in **Computer Science** in United State and will graduate in dec-2026.
-
-👨‍💻 I am really enthusiastic about learning new technology. In 2023, I learned **Jetpack Compose**, **Kotlin Multi Platform**.
+👨‍💻 I am a Senior Android Developer with over 10+ years of professional experience in developing Android applications and publishing many mobile apps to App Store. I worked at many big tech companies such as Samsung Electronics Vietnam, National Australia Bank, and Walmart Global Tech in US. My expertise includes Java, Kotlin, Jetpack Compose, design patterns like MVP, MVVM, Clean Architecture, dependency injection, CI/CD, Unit test and automation testing.
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **badminton**, **chess**.
 
-✈️ I love **traveling** too.
-
 ## 🌐 Connect with Me:
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/van-duy-nguyen-b86578121/)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adrian-duy-nguyen/)
 
 ## 🛠️ Skills
 
