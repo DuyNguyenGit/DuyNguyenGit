@@ -1,7 +1,7 @@
 # Hi there, I'm Adrian! 👋
 ## 🚀 About Me
 
-👨‍💻 I am a Senior Android Developer with over 10+ years of professional experience in developing Android applications and publishing many mobile apps to App Store. I worked at many big tech companies such as Samsung Electronics Vietnam, National Australia Bank, and Walmart Global Tech in US. My expertise includes Java, Kotlin, Jetpack Compose, design patterns like MVP, MVVM, Clean Architecture, dependency injection, CI/CD, Unit test and automation testing.
+👨‍💻 I am a Senior Android Developer with over 10+ years of professional experience in developing Android applications and publishing many mobile apps to App Store. I worked at many big tech companies such as Samsung Electronics Vietnam, National Australia Bank, and Walmart Global Tech in US. My expertise includes **Java, Kotlin, Jetpack Compose, design patterns like MVP, MVVM, Clean Architecture, dependency injection, CI/CD, Unit test and automation testing.**
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **badminton**, **chess**.
 
